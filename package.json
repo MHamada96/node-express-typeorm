@@ -1,0 +1,22 @@
+{
+  "name": "node-express-typeorm",
+  "version": "1.0.0",
+  "description": "this is a boilerplate code for the Node.js projects that use typeorm",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHamada96/node-express-typeorm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHamada96/node-express-typeorm/issues"
+  },
+  "homepage": "https://github.com/MHamada96/node-express-typeorm#readme"
+}
