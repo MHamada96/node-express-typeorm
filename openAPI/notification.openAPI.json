@@ -1,0 +1,28 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "Notification Service API Specs",
+    "version": "1.0.0",
+    "title": "Pickify notification Service"
+  },
+  "tags": [],
+  "paths": {
+    "/example": {
+      "get": {
+        "tags": ["example"],
+        "summary": "exaple route",
+        "operationId": "cexampleRoute",
+
+        "responses": {
+          "200": {
+            "description": "example route works fine"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {},
+    "responses": {}
+  }
+}
